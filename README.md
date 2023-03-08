@@ -1,2 +1,1 @@
-# Shandu_218213654_Covid-19_Modelling_KZN
- 
+# GEOG7029_SA_Covid19_Modelling
